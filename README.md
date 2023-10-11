@@ -8,5 +8,7 @@ groups of customers with a high degree of accuracy based on demographic, behavio
 
 In this the dataset was taken from kaggle. It's called Mall_customers.csv
 
-It contains information about the of customers shopping in a mall. We apply customer segmentation on the data in order to f
-igure out the customer patterns and take business decisions accordingly.
+It contains information about the of customers shopping in a mall. We apply customer segmentation on the data in order to 
+figure out the customer patterns and take business decisions accordingly.
+
+The clustering algorithm divides the dataset into 5 clusters.
